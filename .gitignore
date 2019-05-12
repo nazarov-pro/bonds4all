@@ -1,0 +1,51 @@
+.idea/workspace.xml
+.idea/compiler.xml
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+.idea/modules/
+db/db-tunning/out/production/classes/generated/
+db/db-tunning/out/test/classes/generated_tests/
+db/db-tunning/src/test/resources/
+db/liquibase/src/
+db/mybatis/src/
+edd/kafka-consumer/src/main/resources/
+edd/kafka-consumer/src/test/
+edd/kafka-producer/src/main/resources/
+edd/kafka-producer/src/test/
+edd/rabbitmq/out/production/classes/generated/
+edd/rabbitmq/src/main/resources/
+edd/rabbitmq/src/test/
+microservices/http-server/build/tmp/compileJava/
+microservices/http-server/build/tmp/compileTestJava/
+microservices/http-server/src/test/resources/
+microservices/jetty-embedded/src/main/resources/
+microservices/jetty-embedded/src/test/
+microservices/servers-manager/src/test/
+src/test/resources/
+utility/caching/src/test/
+utility/crypto/src/main/resources/
+utility/crypto/src/test/
+utility/elastic-search/src/
+utility/logger/out/production/classes/generated/
+utility/logger/src/test/
